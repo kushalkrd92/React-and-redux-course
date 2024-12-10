@@ -1,0 +1,16 @@
+.my-container {
+  height: 100vh;
+  background-color: grey;
+}
+
+.btn-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+h1 {
+  text-align: center;
+}
+.k-btn {
+  margin: 4px;
+}

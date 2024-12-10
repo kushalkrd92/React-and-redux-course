@@ -1,0 +1,11 @@
+.k-list {
+    background-color: green;
+    color: white;
+    font-size: 17px;
+  }
+
+  .button {
+    float: right;
+    color: blue;
+    border-radius: 8px;
+  }
